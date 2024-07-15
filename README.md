@@ -1,7 +1,7 @@
 # Planner (Static)
 A vacation planning activities static web page 
 
-### 💻 Tecnologias
+### 💻 Tecnologies
 <p align="left">
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=html,css,js" />
