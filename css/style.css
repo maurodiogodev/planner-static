@@ -181,10 +181,10 @@ time.full {
 }
 
 section .card-bg {
-    animation: appear 800ms;
+    animation: smooth-appear 800ms;
 }
 
-@keyframes appear {
+@keyframes smooth-appear {
     from {
         opacity: 0;
     }
