@@ -51,28 +51,18 @@ Users can add new activities, select specific dates and times, mark activities a
 - **CSS Grid/Flexbox** - Advanced and responsive layouts
 - **Media Queries** - Adaptation for different screen sizes
 
-## 🛠️ How to Run
+## 🌐 Demo
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/plann.er.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd plann.er
-   ```
-
-3. Open the `index.html` file in your favorite browser
+Access the online version: [Plann.er](https://maurodiogodev.github.io/planner-static/)
 
 ## 🔜 Future Improvements
 
-- Data persistence with localStorage
-- Option to edit existing activities
-- Categorization of activities by type
-- Notifications for upcoming activities
-- Toggle between light/dark mode
-- Productivity statistics
+-[] Data persistence with localStorage
+-[] Option to edit existing activities
+-[] Categorization of activities by type
+-[] Notifications for upcoming activities
+-[] Toggle between light/dark mode
+-[] Productivity statistics
 
 
 Design UI/UX by [Rocketseat](https://www.rocketseat.com.br/)
