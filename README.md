@@ -57,12 +57,12 @@ Access the online version: [Plann.er](https://maurodiogodev.github.io/planner-st
 
 ## 🔜 Future Improvements
 
--[] Data persistence with localStorage
--[] Option to edit existing activities
--[] Categorization of activities by type
--[] Notifications for upcoming activities
--[] Toggle between light/dark mode
--[] Productivity statistics
+- Data persistence with localStorage
+- Option to edit existing activities
+- Categorization of activities by type
+- Notifications for upcoming activities
+- Toggle between light/dark mode
+- Productivity statistics
 
 
 Design UI/UX by [Rocketseat](https://www.rocketseat.com.br/)
